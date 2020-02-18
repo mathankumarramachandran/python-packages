@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="email_client", # Replace with your own username
-    version="0.0.1",
+    version="0.1",
     author="Mathan Kumar R",
     author_email="madhan96.cse@gmail.com",
     description="Sendgrid Email",
